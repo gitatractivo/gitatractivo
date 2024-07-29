@@ -13,7 +13,7 @@ projects.</h3>
 
 - 🌱 I’m currently learning **Go, Rust, Gofiber,Tauri**
 
-- 👨‍💻 All of my projects are available at [https://gitanshutalwar.site/](https://gitanshutalwar.site/)
+- 👨‍💻 Checkout more about me  [Portfolio](https://gitanshutalwar.com/)
 
 - 💬 Ask me about **react, nodejs, databases etc.**
 
